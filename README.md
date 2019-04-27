@@ -1,10 +1,10 @@
-# Meme API
+# Meme API (forked from R3l3ntl3ss/Meme_Api)
 
 JSON API for a random meme scraped from reddit.
 
-To see a sample check out https://meme-api.herokuapp.com/sample
+To see a sample check out https://meme-reddit-api.herokuapp.com/sample
 
-API Link : https://meme-api.herokuapp.com/gimme
+API Link : https://meme-reddit-api.herokuapp.com/gimme
 
 ### Example Response:
 
@@ -25,7 +25,7 @@ API Link : https://meme-api.herokuapp.com/gimme
 
 By default the API grabs a random meme from '*memes*', '*dankmemes*', '*meirl*', '*pewdiepiesubmissions*' subreddits. To provide your own custom subreddit use the following endpoint.
 
-Endpoint: [/gimme/{subreddit}](https://meme-api.herokuapp.com/gimme/dankmemes)
+Endpoint: [/gimme/{subreddit}](https://meme-reddit-api.herokuapp.com/gimme/dankmemes)
 
-Example:  https://meme-api.herokuapp.com/gimme/dankmemes
+Example:  https://meme-reddit-api.herokuapp.com/gimme/dankmemes
 
